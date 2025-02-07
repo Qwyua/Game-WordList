@@ -1,78 +1,27 @@
 {
-    "23": {
-      "wordlistapi": "/languages/Azerbaijani/"
-    },
-    "45": {
-      "wordlistapi": "/languages/Indonesian/"
-    },
-    "11": {
-      "wordlistapi": "/languages/Czech/"
-    },
-    "14": {
-      "wordlistapi": "/languages/German/"
-    },
-    "2": {
-      "wordlistapi": "/languages/English/"
-    },
-    "3": {
-      "wordlistapi": "/languages/Spanish/"
-    },
-    "4": {
-      "wordlistapi": "/languages/French/"
-    },
-    "6": {
-      "wordlistapi": "/languages/Italian/"
-    },
-    "44": {
-      "wordlistapi": "/languages/Hungarian/"
-    },
-    "18": {
-      "wordlistapi": "/languages/Dutch/"
-    },
-    "10": {
-      "wordlistapi": "/languages/Polish/"
-    },
-    "1": {
-      "wordlistapi": "/languages/Portuguese/"
-    },
-    "58": {
-      "wordlistapi": "/languages/Romanian/"
-    },
-    "22": {
-      "wordlistapi": "/languages/Slovak/"
-    },
-    "13": {
-      "wordlistapi": "/languages/Vietnamese/"
-    },
-    "8": {
-      "wordlistapi": "/languages/Turkish/"
-    },
-    "21": {
-      "wordlistapi": "/languages/Bulgarian/"
-    },
-    "7": {
-      "wordlistapi": "/languages/Russian/"
-    },
-    "40": {
-      "wordlistapi": "/languages/Hebrew/"
-    },
-    "19": {
-      "wordlistapi": "/languages/Arabic/"
-    },
-    "34": {
-      "wordlistapi": "/languages/Persian/"
-    },
-    "12": {
-      "wordlistapi": "/languages/Thai/"
-    },
-    "16": {
-      "wordlistapi": "/languages/Chinese/"
-    },
-    "15": {
-      "wordlistapi": "/languages/Japanese/"
-    },
-    "20": {
-      "wordlistapi": "/languages/Korean/"
-    }
-  }
-  
+    "1": "Portuguese",
+    "2": "English",
+    "3": "Spanish",
+    "4": "French",
+    "6": "Italian",
+    "7": "Russian",
+    "8": "Turkish",
+    "10": "Polish",
+    "11": "Czech",
+    "12": "Thai",
+    "13": "Vietnamese",
+    "14": "German",
+    "15": "Japanese",
+    "16": "Chinese",
+    "18": "Dutch",
+    "19": "Arabic",
+    "20": "Korean",
+    "21": "Bulgarian",
+    "22": "Slovak",
+    "23": "Azerbaijani",
+    "34": "Persian",
+    "40": "Hebrew",
+    "44": "Hungarian",
+    "45": "Indonesian",
+    "58": "Romanian"
+}
