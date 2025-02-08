@@ -61,12 +61,12 @@ The project currently supports the following languages. For each language, an es
 
 To run the project locally, follow the steps below:
 
-### 1. **GET WORDS JSON**
-```api
-https://api.github.com/repos/qwyua/Gartic-WordList/contents/languages/${LANGUAGE}/${THEME}.json
+### 1. **Raw URL**
+```raw
+https://raw.githubusercontent.com/Qwyua/Gartic-WordList/main/languages/${LANGUAGE}/${THEME}.json
 ```
 
-### 2. **How to use an API while in a room?**
+### 2. **API URL**
 ```api
 https://api.github.com/repos/qwyua/Gartic-WordList/contents/languages/${LANGUAGE}/${THEME}.json
 ```
