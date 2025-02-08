@@ -71,3 +71,8 @@ https://raw.githubusercontent.com/Qwyua/Gartic-WordList/main/languages/${LANGUAG
 https://api.github.com/repos/qwyua/Gartic-WordList/contents/languages/${LANGUAGE}/${THEME}.json
 ```
 
+### 3. **USE WORDLIST.JS**
+```api
+asd
+```
+
