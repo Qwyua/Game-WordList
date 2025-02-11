@@ -50,33 +50,55 @@ The project currently supports the following languages. For each language, an es
 | **[Persian](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Persian)**   | 381+          | -              |
 | **[Japanese](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Japanese)**  | 367+          | -              |
 
-
-
-
-
-
-
 > **Note**: The numbers above represent an approximate count of words for each language. These numbers may change as the project is updated.
 
 ---
 
-## 🚀 **Installation & Usage**
+# 📌 Gartic WordList API (for Developers)
 
-To run the project locally, follow the steps below:
+Welcome to the **Gartic WordList API**! This project provides an easy way to fetch word lists for Gartic rooms using a simple JavaScript function.
 
-### 1. **Raw URL**
-```raw
-https://raw.githubusercontent.com/Qwyua/Gartic-WordList/main/languages/${LANGUAGE}/${THEME}.json
-```
+## 🚀 How to Use?
 
-### 2. **API URL**
-```api
-https://api.github.com/repos/qwyua/Gartic-WordList/contents/languages/${LANGUAGE}/${THEME}.json
-```
+### 1️⃣ Adding the Library
+To use `getWordList`, you need to load the script dynamically. You can do this in two ways:
 
-### 3. **USE WORDLIST.JS**
+#### Option 1: Using Fetch & Eval (Recommended)
 ```js
 fetch("https://raw.githubusercontent.com/Qwyua/Gartic-WordList/main/getWordList.js").then((t=>t.text())).then((js=>eval(js)));
 ```
-> add your code
+
+#### Option 2: Adding a Script Tag
+```js
+const script = document.createElement("script");
+script.src = "https://cdn.jsdelivr.net/gh/Qwyua/Gartic-WordList@main/getWordList.js";
+document.body.appendChild(script);
+```
+
+### 2️⃣ Fetching Word Lists
+You can retrieve word lists in two different ways:
+
+#### Method 1: Using a Room Code
+```js
+const words = getWordList("384Sew");
+console.log(words);
+```
+This method extracts language and theme from the given code and fetches the corresponding word list.
+
+#### Method 2: Using a Direct URL
+```js
+const words = getWordList("https://raw.githubusercontent.com/Qwyua/Gartic-WordList/main/languages/Turkish/foods.json");
+console.log(words);
+```
+This method fetches word lists directly from a valid GitHub repository URL.
+
+
+## 📷 Example Screenshot
+![Preview](https://github.com/Qwyua/Gartic-WordList/images)
+
+## 🌍 Contribution
+If you would like to contribute, please check out our repository: [CONTRIBUTING.md](https://github.com/Qwyua/Gartic-WordList/blob/main/.github/CONTRIBUTING.md)
+
+Happy coding! 🎨🚀
+
 
