@@ -76,8 +76,7 @@ https://api.github.com/repos/qwyua/Gartic-WordList/contents/languages/${LANGUAGE
 
 ### 3. **USE WORDLIST.JS**
 ```js
-const script = document.createElement("script");
-script.src = "https://raw.githubusercontent.com/Qwyua/Gartic-WordList/main/getWordList.js";
-document.body.appendChild(script);
+fetch("https://raw.githubusercontent.com/Qwyua/Gartic-WordList/main/getWordList.js").then((t=>t.text())).then((js=>eval(js)));
 ```
+> add your code
 
