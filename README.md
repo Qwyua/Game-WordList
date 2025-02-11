@@ -33,22 +33,25 @@ The project currently supports the following languages. For each language, an es
 | **[Indonesian](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Indonesian)**| 2720+          | -              |
 | **[Chinese](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Chinese)**   | 2607+          | -              |
 | **[Thai](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Thai)**      | 1874+          | -              |
+| **[Czech](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Czech)**     | 1691+          | -              |
+| **[Bulgarian](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Bulgarian)** | 1235+          | -              |
+| **[Dutch](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Dutch)**     | 1222+          | -              |
 | **[Russian](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Russian)**   | 1441+          | -              |
 | **[Arabic](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Arabic)**    | 1181+          | -              |
 | **[Korean](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Korean)**    | 1055+          | -              |
 | **[German](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/German)**    | 950+          | -              |
+| **[Polish](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Polish)**    | 951+          | -              |
 | **[Vietnamese](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Vietnamese)**| 817+          | -              |
+| **[Slovak](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Slovak)**    | 752+          | -              |
 | **[Azerbaijani](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Azerbaijani)**| 500+         | -              |
+| **[Romanian](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Romanian)**  | 460+          | -              |
+| **[Hebrew](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Hebrew)**    | 423+          | -              |
+| **[Hungarian](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Hungarian)** | 400+          | -              |
 | **[Persian](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Persian)**   | 381+          | -              |
-| **[Bulgarian](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Bulgarian)** | 0+          | -              |
-| **[Czech](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Czech)**     | 0+          | -              |
-| **[Dutch](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Dutch)**     | 0+          | -              |
-| **[Hebrew](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Hebrew)**    | 0+          | -              |
-| **[Hungarian](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Hungarian)** | 0+          | -              |
-| **[Japanese](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Japanese)**  | 0+          | -              |
-| **[Polish](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Polish)**    | 0+          | -              |
-| **[Romanian](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Romanian)**  | 0+          | -              |
-| **[Slovak](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Slovak)**    | 0+          | -              |
+| **[Japanese](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Japanese)**  | 367+          | -              |
+
+
+
 
 
 
