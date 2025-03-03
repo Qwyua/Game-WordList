@@ -101,4 +101,33 @@ If you would like to contribute, please check out our repository: [CONTRIBUTING.
 
 Happy coding! 🎨🚀
 
+---
+
+## 🤝 Contributors  
+
+We extend our heartfelt gratitude to the amazing people who have contributed to this project! 💖  
+
+<p align="center">
+  <a href="https://github.com/NOXY-JS">
+    <img src="https://github.com/NOXY-JS.png" width="80" height="80" style="border-radius: 50%;" alt="NOXY-JS">
+  </a>
+  <a href="https://github.com/ygnJavascript">
+    <img src="https://github.com/ygnJavascript.png" width="80" height="80" style="border-radius: 50%;" alt="ygnJavascript">
+  </a>
+  <a href="https://github.com/Qwyua">
+    <img src="https://github.com/Qwyua.png" width="80" height="80" style="border-radius: 50%;" alt="Qwyua">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Qwyua/Gartic-WordList/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Qwyua/Gartic-WordList?color=blue&style=for-the-badge">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Qwyua/Gartic-WordList/graphs/contributors">
+    <b>View All Contributors</b>
+  </a>
+</p>
 
