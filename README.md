@@ -93,9 +93,6 @@ console.log(words);
 This method fetches word lists directly from a valid GitHub repository URL.
 
 
-## 📷 Example Screenshot
-![Preview](https://github.com/Qwyua/Gartic-WordList/tree/main/images)
-
 ## 🌍 Contribution
 If you would like to contribute, please check out our repository: [CONTRIBUTING.md](https://github.com/Qwyua/Gartic-WordList/blob/main/.github/CONTRIBUTING.md)
 
