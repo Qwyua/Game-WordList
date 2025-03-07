@@ -65,13 +65,13 @@ To use `getWordList`, you need to load the script dynamically. You can do this i
 
 #### Option 1: Using Fetch & Eval (Recommended)
 ```js
-fetch("https://cdn.jsdelivr.net/gh/Gartic-Developers/Gartic-WordList@8ab60d8/getWordList.js").then((t=>t.text())).then((js=>eval(js)));
+fetch("https://cdn.jsdelivr.net/gh/Gartic-Developers/Gartic-WordList/getWordList.js").then((t=>t.text())).then((js=>eval(js)));
 ```
 
 #### Option 2: Adding a Script Tag
 ```js
 const script = document.createElement("script");
-script.src = "https://cdn.jsdelivr.net/gh/Gartic-Developers/Gartic-WordList@8ab60d8/getWordList.js";
+script.src = "https://cdn.jsdelivr.net/gh/Gartic-Developers/Gartic-WordList/getWordList.js";
 document.body.appendChild(script);
 ```
 
