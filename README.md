@@ -24,31 +24,31 @@ The project currently supports the following languages. For each language, an es
 
 | Language      | Word Count |
 |---------------|-------------|
-| **[Portuguese](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Portuguese)**| 8585+          |
-| **[English](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/English)**    | 7908+         |
-| **[Spanish](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Spanish)**   | 5793+          |
-| **[Italian](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Italian)**   | 5607+          |
-| **[French](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/French)**    | 5526+          |
-| **[Turkish](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Turkish)**   | 3066+          |
-| **[Indonesian](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Indonesian)**| 2720+          |
-| **[Chinese](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Chinese)**   | 2607+          |
-| **[Thai](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Thai)**      | 1874+          |
-| **[Czech](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Czech)**     | 1691+          |
-| **[Russian](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Russian)**   | 1441+          |
-| **[Bulgarian](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Bulgarian)** | 1235+          |
-| **[Dutch](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Dutch)**     | 1222+          |
-| **[Arabic](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Arabic)**    | 1181+          |
-| **[Korean](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Korean)**    | 1055+          |
-| **[Polish](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Polish)**    | 951+          |
-| **[German](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/German)**    | 950+          |
-| **[Vietnamese](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Vietnamese)**| 817+          |
-| **[Slovak](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Slovak)**    | 752+          |
-| **[Azerbaijani](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Azerbaijani)**| 500+         |
-| **[Romanian](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Romanian)**  | 460+          |
-| **[Hebrew](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Hebrew)**    | 423+          |
-| **[Hungarian](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Hungarian)** | 400+          |
-| **[Persian](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Persian)**   | 381+          |
-| **[Japanese](https://github.com/Qwyua/Gartic-WordList/tree/main/languages/Japanese)**  | 367+          |
+| **[Portuguese](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Portuguese)**| 8585+          |
+| **[English](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/English)**    | 7908+         |
+| **[Spanish](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Spanish)**   | 5793+          |
+| **[Italian](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Italian)**   | 5607+          |
+| **[French](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/French)**    | 5526+          |
+| **[Turkish](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Turkish)**   | 3066+          |
+| **[Indonesian](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Indonesian)**| 2720+          |
+| **[Chinese](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Chinese)**   | 2607+          |
+| **[Thai](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Thai)**      | 1874+          |
+| **[Czech](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Czech)**     | 1691+          |
+| **[Russian](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Russian)**   | 1441+          |
+| **[Bulgarian](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Bulgarian)** | 1235+          |
+| **[Dutch](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Dutch)**     | 1222+          |
+| **[Arabic](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Arabic)**    | 1181+          |
+| **[Korean](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Korean)**    | 1055+          |
+| **[Polish](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Polish)**    | 951+          |
+| **[German](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/German)**    | 950+          |
+| **[Vietnamese](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Vietnamese)**| 817+          |
+| **[Slovak](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Slovak)**    | 752+          |
+| **[Azerbaijani](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Azerbaijani)**| 500+         |
+| **[Romanian](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Romanian)**  | 460+          |
+| **[Hebrew](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Hebrew)**    | 423+          |
+| **[Hungarian](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Hungarian)** | 400+          |
+| **[Persian](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Persian)**   | 381+          |
+| **[Japanese](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Japanese)**  | 367+          |
 
 > **Note**: The numbers above represent an approximate count of words for each language. These numbers may change as the project is updated.
 
@@ -65,13 +65,13 @@ To use `getWordList`, you need to load the script dynamically. You can do this i
 
 #### Option 1: Using Fetch & Eval (Recommended)
 ```js
-fetch("https://cdn.jsdelivr.net/gh/Qwyua/Gartic-WordList@8ab60d8/getWordList.js").then((t=>t.text())).then((js=>eval(js)));
+fetch("https://cdn.jsdelivr.net/gh/Gartic-Developers/Gartic-WordList@8ab60d8/getWordList.js").then((t=>t.text())).then((js=>eval(js)));
 ```
 
 #### Option 2: Adding a Script Tag
 ```js
 const script = document.createElement("script");
-script.src = "https://cdn.jsdelivr.net/gh/Qwyua/Gartic-WordList@8ab60d8/getWordList.js";
+script.src = "https://cdn.jsdelivr.net/gh/Gartic-Developers/Gartic-WordList@8ab60d8/getWordList.js";
 document.body.appendChild(script);
 ```
 
@@ -87,14 +87,14 @@ This method extracts language and theme from the given code and fetches the corr
 
 #### Method 2: Using a Direct URL
 ```js
-const words = getWordList("https://raw.githubusercontent.com/Qwyua/Gartic-WordList/main/languages/Turkish/foods.json");
+const words = getWordList("https://cdn.jsdelivr.net/gh/Gartic-Developers/Gartic-WordList/languages/Turkish/foods.json");
 console.log(words); // ["lolipop", "bisküvi", "zeytin", "portakal suyu", "turşu", "bira", ...] 
 ```
 This method fetches word lists directly from a valid GitHub repository URL.
 
 
 ## 🌍 Contribution
-If you would like to contribute, please check out our repository: [CONTRIBUTING.md](https://github.com/Qwyua/Gartic-WordList/blob/main/.github/CONTRIBUTING.md)
+If you would like to contribute, please check out our repository: [CONTRIBUTING.md](https://github.com/Gartic-Developers/Gartic-WordList/blob/main/.github/CONTRIBUTING.md)
 
 Happy coding! 🎨🚀
 
@@ -117,13 +117,13 @@ We extend our heartfelt gratitude to the amazing people who have contributed to 
 </p>
 
 <p align="center">
-  <a href="https://github.com/Qwyua/Gartic-WordList/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Qwyua/Gartic-WordList?color=blue&style=for-the-badge">
+  <a href="https://github.com/Gartic-Developers/Gartic-WordList/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Gartic-Developers/Gartic-WordList?color=blue&style=for-the-badge">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Qwyua/Gartic-WordList/graphs/contributors">
+  <a href="https://github.com/Gartic-Developers/Gartic-WordList/graphs/contributors">
     <b>View All Contributors</b>
   </a>
 </p>
