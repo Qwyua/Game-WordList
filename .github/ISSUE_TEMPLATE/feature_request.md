@@ -29,4 +29,4 @@ assignees: ''
 ## 📝 Additional Information  
 <!-- Is there anything else you'd like to add? -->
 
-For more detailed information or inquiries, please reach out to us via Discord: qwyua.
+For more detailed information or inquiries, please reach out to Gartic-Developers.
