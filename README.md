@@ -80,15 +80,15 @@ You can retrieve word lists in two different ways:
 
 #### Method 1: Using a Room Code
 ```js
-const words = getWordList("384Sew");
-console.log(words); // ["lolipop", "bisküvi", "zeytin", "portakal suyu", "turşu", "bira", ...] 
+const words = getWordList("324qc3");
+console.log(words); // ["tofu","vinaigrette","meat","parsley","burrito","nectarine","brandy", ...] 
 ```
 This method extracts language and theme from the given code and fetches the corresponding word list.
 
 #### Method 2: Using a Direct URL
 ```js
-const words = getWordList("https://cdn.jsdelivr.net/gh/Gartic-Developers/Gartic-WordList/languages/Turkish/foods.json");
-console.log(words); // ["lolipop", "bisküvi", "zeytin", "portakal suyu", "turşu", "bira", ...] 
+const words = getWordList("https://cdn.jsdelivr.net/gh/Gartic-Developers/Gartic-WordList/languages/English/foods.json");
+console.log(words); // ["tofu","vinaigrette","meat","parsley","burrito","nectarine","brandy", ...] 
 ```
 This method fetches word lists directly from a valid GitHub repository URL.
 
