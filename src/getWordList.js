@@ -35,9 +35,9 @@
             // The third character determines the theme ID.
             // If the character is a number, it is used directly as a number. For example, in "384", '4' is directly taken as 4.
             // If the character is a letter, a special conversion is applied:
-            // - The alphabet index starting from zero is used ("a" -> 0, "b" -> 1, ..., "z" -> 25) to determine the base index.
-            // - For lowercase letters (a-z), 10 is added. So "a" -> 10, "b" -> 11, ..., "z" -> 35.
-            // - For uppercase letters (A-Z), 36 is added. So "A" -> 36, "B" -> 37, "C" -> 38, etc.
+            // - The alphabet index is determined in order, but instead of starting from 0, it starts from 10.
+            // - For lowercase letters (a-z), the index starts at 10. So "a" -> 10, "b" -> 11, ..., "z" -> 35.
+            // - For uppercase letters (A-Z), the index starts at 36. So "A" -> 36, "B" -> 37, "C" -> 38, etc.
             // This allows both numbers and letters to represent themes.
 
             const themeIndex = isNaN(code[2])
