@@ -22,9 +22,9 @@ _Enhance your Gartic experience with a detailed, multilingual word list to suppo
 The project currently supports the following languages. For each language, an estimate of the total number of words included is provided:
 
 
-| Language      | Word Count |
-|---------------|-------------|
-| **[Portuguese](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Portuguese)**| 8585+          |
+| Language      | Word Count | Last seen upgrade |
+|---------------|------------|-------------------|
+| **[Portuguese](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Portuguese)**| 11510+ | Mar 10, 25 |
 | **[English](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/English)**    | 7908+         |
 | **[Spanish](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Spanish)**   | 5793+          |
 | **[Italian](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/languages/Italian)**   | 5607+          |
