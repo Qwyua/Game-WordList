@@ -5,7 +5,7 @@
     // The getWordList function returns a word list using either a room code or a direct URL.
     function getWordList(roomCode) {
         // Define the base URL. Word lists will be fetched from this GitHub repository.
-        const BASE_URL = "https://raw.githubusercontent.com/Gartic-Developers/Gartic-WordList/main/src/";
+        const BASE_URL = "https://raw.githubusercontent.com/Gartic-Developers/Gartic-WordList/main/";
         const LANGUAGES_URL = BASE_URL + "languages/";
 
         // A helper function to print colorful and clear error/warning messages in the console.
@@ -59,8 +59,8 @@
             }
 
             // Fetch the language and theme JSON files.
-            const languagesData = fetchJson(BASE_URL + "languages-data.json");
-            const themesData = fetchJson(BASE_URL + "themes-data.json");
+            const languagesData = fetchJson(BASE_URL + "src/languages-data.json");
+            const themesData = fetchJson(BASE_URL + "src/themes-data.json");
 
             // Return an error message if data is missing.
             return (languagesData && themesData)
