@@ -105,6 +105,9 @@ Happy coding! 🎨🚀
 We extend our heartfelt gratitude to the amazing people who have contributed to this project! 💖  
 
 <p align="center">
+    <a href="https://github.com/KutayX7">
+    <img src="https://github.com/KutayX7.png" width="80" height="80" style="border-radius: 50%;" alt="KutayX7">
+  </a>
   <a href="https://github.com/NOXY-JS">
     <img src="https://github.com/NOXY-JS.png" width="80" height="80" style="border-radius: 50%;" alt="NOXY-JS">
   </a>
