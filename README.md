@@ -17,6 +17,19 @@ _Enhance your Gartic experience with a detailed, multilingual word list to suppo
 
 ---
 
+### ❗Gartic WordList - Important Notice
+
+This project collects words directly from Gartic's internal database. Some words may be incorrect or unrelated, but they originate from the game itself.
+
+⚠️ We do not manually modify words. If you find incorrect words, report them to **team@gartic.com**.
+
+🔹 For contributions, follow the guidelines in [CONTRIBUTING.md](https://github.com/Gartic-Developers/Gartic-WordList/tree/main/.github/CONTRIBUTING.md).   
+🔹 Fork the repository if you want to make improvements.   
+🔹 We appreciate feedback, but we cannot change the game's word list.   
+
+Thank you for your understanding!
+
+---
 ## 🌍 **Languages Supported**
 
 The project currently supports the following languages. For each language, an estimate of the total number of words included is provided:
