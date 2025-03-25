@@ -30,7 +30,7 @@ Thank you for considering contributing to the **Gartic WordList** project! Your 
 
 ## Code of Conduct
 
-Please adhere to our [Code of Conduct](https://github.com/Gartic-Developers/Gartic-WordList/blob/main/CODE_OF_CONDUCT.md). **Discrimination, harassment, hate speech, and offensive language will not be tolerated.**
+Please adhere to our [Code of Conduct](https://github.com/Gartic-Developers/Gartic-WordList/blob/main/.github/CODE_OF_CONDUCT.md). **Discrimination, harassment, hate speech, and offensive language will not be tolerated.**
 
 ## Things to Keep in Mind:
 
