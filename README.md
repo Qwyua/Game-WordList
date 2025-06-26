@@ -21,7 +21,7 @@ _Enhance your Game experience with a detailed, multilingual word list to support
 
 This project collects words directly from Game's internal database. Some words may be incorrect or unrelated, but they originate from the game itself.
 
-⚠️ We do not manually modify words. If you find incorrect words, report them to **team@Game.com**.
+⚠️ We do not manually modify words. If you find incorrect words, report them to **~**.
 
 🔹 For contributions, follow the guidelines in [CONTRIBUTING.md](https://github.com/GameSketchers/Game-WordList/tree/main/.github/CONTRIBUTING.md).   
 🔹 Fork the repository if you want to make improvements.   
