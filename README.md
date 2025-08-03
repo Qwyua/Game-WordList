@@ -68,11 +68,11 @@ The project currently supports the following languages. For each language, an es
 
 # 📌 Game WordList API (for Developers)
 
--**XXXXXXX  REMOVED  XXXXXXX**
+**XXXXXXX  REMOVED  XXXXXXX**
 
--**XXXXXXX  REMOVED  XXXXXXX**
+**XXXXXXX  REMOVED  XXXXXXX**
 
--**XXXXXXX  REMOVED  XXXXXXX**
+**XXXXXXX  REMOVED  XXXXXXX**
 
 ## 🤝 Contributors  
 
