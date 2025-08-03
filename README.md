@@ -1,7 +1,6 @@
 <h1 align="center">Game Word List</h1>
 <h3 align="center">A Comprehensive Multi-Language Word List for the Game Game</h3>
 <p align="center">
-  <img height="210" src="./images/logo.png" alt="Project Logo">
 </p>
 
 _Enhance your Game experience with a detailed, multilingual word list to support players worldwide._
@@ -69,66 +68,28 @@ The project currently supports the following languages. For each language, an es
 
 # 📌 Game WordList API (for Developers)
 
-Welcome to the **Game WordList API**! This project provides an easy way to fetch word lists for Game rooms using a simple JavaScript function.
+-**XXXXXXX  REMOVED  XXXXXXX**
 
-## 🚀 How to Use?
+-**XXXXXXX  REMOVED  XXXXXXX**
 
-### 1️⃣ Adding the Library
-To use `getWordList`, you need to load the script dynamically. You can do this in two ways:
-
-#### Option 1: Using Fetch & Eval (Recommended)
-```js
-fetch("https://cdn.jsdelivr.net/gh/GameSketchers/Game-WordList/src/getWordList.min.js").then((t=>t.text())).then((js=>eval(js)));
-```
-
-#### Option 2: Adding a Script Tag
-```js
-const script = document.createElement("script");
-script.src = "https://cdn.jsdelivr.net/gh/GameSketchers/Game-WordList/src/getWordList.min.js";
-document.body.appendChild(script);
-```
-
-### 2️⃣ Fetching Word Lists
-You can retrieve word lists in two different ways:
-
-#### Method 1: Using a Room Code
-```js
-const words = getWordList("324qc3");
-console.log(words); // ["tofu", "vinaigrette", "meat", "parsley", "burrito", ...] 
-```
-This method extracts language and theme from the given code and fetches the corresponding word list.
-
-#### Method 2: Using a Direct URL
-```js
-const words = getWordList("https://cdn.jsdelivr.net/gh/GameSketchers/Game-WordList/languages/English/foods.json");
-console.log(words); // ["tofu", "vinaigrette", "meat", "parsley", "burrito", ...] 
-```
-This method fetches word lists directly from a valid GitHub repository URL.
-
-
-## 🌍 Contribution
-If you would like to contribute, please check out our repository: [CONTRIBUTING.md](https://github.com/GameSketchers/Game-WordList/blob/main/.github/CONTRIBUTING.md)
-
-Happy coding! 🎨🚀
-
----
+-**XXXXXXX  REMOVED  XXXXXXX**
 
 ## 🤝 Contributors  
 
 We extend our heartfelt gratitude to the amazing people who have contributed to this project! 💖  
 
 <p align="center">
-    <a href="https://github.com/KutayX7">
-    <img src="https://github.com/KutayX7.png" width="80" height="80" style="border-radius: 50%;" alt="KutayX7">
-  </a>
-  <a href="https://github.com/NOXYJS">
-    <img src="https://github.com/NOXYJS.png" width="80" height="80" style="border-radius: 50%;" alt="NOXYJS">
+  <a href="https://github.com/NOXY-JS">
+    <img src="https://github.com/NOXY-JS.png" width="80" height="80" style="border-radius: 50%;" alt="NOXY-JS">
   </a>
   <a href="https://github.com/ygnJavascript">
     <img src="https://github.com/ygnJavascript.png" width="80" height="80" style="border-radius: 50%;" alt="ygnJavascript">
   </a>
   <a href="https://github.com/Qwyua">
     <img src="https://github.com/Qwyua.png" width="80" height="80" style="border-radius: 50%;" alt="Qwyua">
+  </a>
+  <a href="https://github.com/anonimbiri-IsBack">
+    <img src="https://github.com/anonimbiri-IsBack.png" width="80" height="80" style="border-radius: 50%;" alt="anonimbiri-IsBack">
   </a>
 </p>
 
