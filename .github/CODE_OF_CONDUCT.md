@@ -6,6 +6,7 @@ This project is dedicated to providing a welcoming, harassment-free experience f
 - Avoid hate speech and personal attacks.  
 - Focus on collaboration and constructive feedback.  
 
-For any issues, please contact Gartic-Developers.
+For any issues, please contact Game Sketchers.
 
 💙 Thank you for making this community a better place!
+
