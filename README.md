@@ -1,5 +1,5 @@
 <h1 align="center">Game Word List</h1>
-<h3 align="center">A Comprehensive Multi-Language Word List for the Game Game</h3>
+<h3 align="center">A Comprehensive Multi-Language Word List for the Games</h3>
 <p align="center">
 </p>
 
