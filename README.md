@@ -18,7 +18,7 @@ _Enhance your Game experience with a detailed, multilingual word list to support
 
 ### ❗ WordList - Important Notice
 
-This project collects words directly from XXX —Apparently, saying "citraG" is illegal now 😐— internal database. Some words may be incorrect or unrelated, but they originate from the game itself.
+This project collects words directly from ****XXX**** *—Apparently, saying "citraG" is illegal now 😐— internal database.* Some words may be incorrect or unrelated, but they originate from the game itself.
 
 ⚠️ We do not manually modify words. If you find incorrect words, report them to **~**.
 
